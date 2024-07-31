@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.firstDiv {
+    background: url('assests/Ambassador\ Program\ \(1\).png');
+    background-size: cover;
+    height: 100vh !important;
+}
+
+.secondDiv {
+    background:#173175;
+
+}
+
+.error {
+    display: none;
+}
